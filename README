@@ -1,10 +1,8 @@
 To add things to git repository:
 
-If a new file: 
-
 git add example.txt
-
-If making a change:
-
 git commit -m "some note on what you changed"
 git push origin master
+
+
+There may be some quicker way to do this but I can't find it and this works.
