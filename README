@@ -1,1 +1,10 @@
-This is a git repo
+To add things to git repository:
+
+If a new file: 
+
+git add example.txt
+
+If making a change:
+
+git commit -m "some note on what you changed"
+git push origin master
